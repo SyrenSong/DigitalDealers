@@ -5,13 +5,14 @@
 
 .page-title {
     text-decoration-color: white;
+    font-size: 3rem;
 }
 
 .project-info {
     background-color: rgb(216, 175, 255);
     padding: 15px;
     margin: 10px;
-    font-size: x-large;
+    font-size: 2rem;
     text-indent: 50px;
     width: 90%;
 }
@@ -19,6 +20,6 @@
 .buttons-img {
     padding: 15px;
     margin: 10px;
-    font-size: x-large;
+    font-size: 2rem;
     width: 90%;
 }
