@@ -3,6 +3,10 @@
     height: 70px;
 }
 
+.page-title {
+    text-decoration-color: white;
+}
+
 .project-info {
     background-color: rgb(216, 175, 255);
     padding: 15px;
