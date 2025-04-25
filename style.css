@@ -28,3 +28,7 @@
 .button {
     background: rgb(216, 175, 255);
 }
+.title {
+    display: flex;
+    justify-content: center;
+}
