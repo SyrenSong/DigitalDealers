@@ -12,15 +12,17 @@
     background-color: rgb(216, 175, 255);
     padding: 15px;
     margin: 10px;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-indent: 50px;
     width: 90%;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .buttons-img {
     padding: 15px;
     margin: 10px;
-    font-size: 2rem;
+    font-size: 1.5rem;
     width: 90%;
 }
 .button {
