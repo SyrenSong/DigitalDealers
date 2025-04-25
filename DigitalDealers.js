@@ -1,5 +1,4 @@
-function checkDeckFull();
-{
+function checkDeckFull() {
     if(document.getElementById("full-deck-button").value != "off") {
       document.getElementById("full-deck-button").value="off";
       document.getElementById("full-deck-button").innerHTML="Full Deck Off"
