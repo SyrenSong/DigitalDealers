@@ -8,3 +8,5 @@ function checkDeckFull();
       document.getElementById("full-deck-button").innerHTML="Full Deck On"
     }
 }
+
+checkDeckFull();
